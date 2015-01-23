@@ -1,20 +1,18 @@
 html {
 	background-color: #bdb9a0;
+	font-family: 'Open Sans', sans-serif;
 }
 
 h1 {
 	font-weight: bold;
-	font-size: 5rem;
+	font-size: 3rem;
 	font-family: 'Bevan', cursive;
 }
 
 h2 {
 	font-weight: bold;
-	font-size: 4rem;
+	font-size: 2rem;
 	font-family: 'Bevan', cursive;
 }
 
-ol, p {
-	font-family: 'Open Sans', sans-serif;
 
-}
