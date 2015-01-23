@@ -8,6 +8,11 @@ h1 {
 	font-family: 'Bevan', cursive;
 }
 
-ol {
+h2 {
+	font-weight: bold;
+}
+
+ol, p {
+	font-family: 'Open Sans', sans-serif;
 
 }
