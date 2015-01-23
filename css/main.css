@@ -15,4 +15,7 @@ h2 {
 	font-family: 'Bevan', cursive;
 }
 
-
+blockquote {
+	font-weight: bold;
+	font-size:1rem;
+}
