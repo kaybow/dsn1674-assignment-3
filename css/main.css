@@ -19,7 +19,7 @@ h2 {
 
 blockquote {
 	font-weight: bold;
-	font-size:1rem;
+	font-size:1.5rem;
 }
 
 dt {
@@ -27,10 +27,18 @@ dt {
 	font-size: 1rem;
 }
 
-footer, cite {
+.cite {
 	text-align: right;
 }
 
 ol {
 	list-style-type: disc;
+}
+
+a{
+	color:green;
+}
+
+.planetlist {
+	list-style-type: lower-roman;
 }
