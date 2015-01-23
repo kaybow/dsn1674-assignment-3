@@ -7,15 +7,30 @@ h1 {
 	font-weight: bold;
 	font-size: 3rem;
 	font-family: 'Bevan', cursive;
+	color: #666;
 }
 
 h2 {
 	font-weight: bold;
 	font-size: 2rem;
 	font-family: 'Bevan', cursive;
+	color: #666;
 }
 
 blockquote {
 	font-weight: bold;
 	font-size:1rem;
+}
+
+dt {
+	font-weight: bold;
+	font-size: 1rem;
+}
+
+footer, cite {
+	text-align: right;
+}
+
+ol {
+	list-style-type: disc;
 }
